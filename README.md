@@ -1,6 +1,6 @@
 This repository contains a collection of my Algorithms and Data Structures labs, completed during my second year of Computer Science at TU Dublin. The labs demonstrate various data structures and algorithm implementations, all developed in Java.
 
-### Lab Overview:
+# Lab Overview:
 
 - **Lab 1:** StackTest – Implementation and testing of the stack data structure.
 - **Lab 2:** QueueTest – Implementation and testing of the queue data structure.
